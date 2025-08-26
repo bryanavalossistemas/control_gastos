@@ -25,17 +25,6 @@ Con esta aplicación puedes definir un presupuesto inicial y registrar tus gasto
 - **Base de datos:** SQLite / PostgreSQL  
 - **Control de versiones:** Git & GitHub  
 
-*(puedes ajustar esta sección según tu implementación real)*  
-
----
-
-## 📸 Vista previa
-
-*(Aquí puedes colocar capturas de pantalla de tu app cuando tengas la interfaz lista)*  
-
-Ejemplo:  
-
-![Demo](https://via.placeholder.com/800x400?text=Vista+previa+del+Planificador+de+Gastos)
 
 ---
 
